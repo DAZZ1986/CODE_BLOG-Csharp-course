@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CODE_BLOG №26 Сериализация (serialization) объектов и работа с XML и JSON/1.0.0": {
+        "runtime": {
+          "CODE_BLOG №26 Сериализация (serialization) объектов и работа с XML и JSON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CODE_BLOG №26 Сериализация (serialization) объектов и работа с XML и JSON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

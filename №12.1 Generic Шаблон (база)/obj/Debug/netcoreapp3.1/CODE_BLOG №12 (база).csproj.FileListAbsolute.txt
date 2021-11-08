@@ -1,0 +1,13 @@
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\bin\Debug\netcoreapp3.1\CODE_BLOG №12 (база).exe
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\bin\Debug\netcoreapp3.1\CODE_BLOG №12 (база).deps.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\bin\Debug\netcoreapp3.1\CODE_BLOG №12 (база).runtimeconfig.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\bin\Debug\netcoreapp3.1\CODE_BLOG №12 (база).runtimeconfig.dev.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\bin\Debug\netcoreapp3.1\CODE_BLOG №12 (база).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\bin\Debug\netcoreapp3.1\CODE_BLOG №12 (база).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).csprojAssemblyReference.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).AssemblyInfo.cs
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №12 (база)\obj\Debug\netcoreapp3.1\CODE_BLOG №12 (база).genruntimeconfig.cache

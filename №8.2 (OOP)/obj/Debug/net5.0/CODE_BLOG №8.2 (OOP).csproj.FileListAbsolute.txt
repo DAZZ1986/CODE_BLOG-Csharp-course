@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\CODE_BLOG №8.2 (OOP).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\CODE_BLOG №8.2 (OOP).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\CODE_BLOG №8.2 (OOP).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\CODE_BLOG №8.2 (OOP).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\CODE_BLOG №8.2 (OOP).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\ref\CODE_BLOG №8.2 (OOP).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\bin\Debug\net5.0\CODE_BLOG №8.2 (OOP).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\ref\CODE_BLOG №8.2 (OOP).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №8.2 (OOP)\obj\Debug\net5.0\CODE_BLOG №8.2 (OOP).genruntimeconfig.cache

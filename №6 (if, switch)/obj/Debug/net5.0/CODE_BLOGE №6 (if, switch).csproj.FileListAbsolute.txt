@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\CODE_BLOGE №6 (if, switch).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\CODE_BLOGE №6 (if, switch).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\CODE_BLOGE №6 (if, switch).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\CODE_BLOGE №6 (if, switch).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\CODE_BLOGE №6 (if, switch).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\ref\CODE_BLOGE №6 (if, switch).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\bin\Debug\net5.0\CODE_BLOGE №6 (if, switch).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\ref\CODE_BLOGE №6 (if, switch).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOGE №6 (if, switch)\obj\Debug\net5.0\CODE_BLOGE №6 (if, switch).genruntimeconfig.cache

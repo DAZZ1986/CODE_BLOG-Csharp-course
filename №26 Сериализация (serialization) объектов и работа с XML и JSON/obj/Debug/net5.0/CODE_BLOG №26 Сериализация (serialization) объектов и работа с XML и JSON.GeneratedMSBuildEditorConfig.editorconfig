@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CODE_BLOG__26_Сериализация__serialization__объектов_и_работа_с_XML_и_JSON
+build_property.ProjectDir = D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №26 Сериализация (serialization) объектов и работа с XML и JSON\

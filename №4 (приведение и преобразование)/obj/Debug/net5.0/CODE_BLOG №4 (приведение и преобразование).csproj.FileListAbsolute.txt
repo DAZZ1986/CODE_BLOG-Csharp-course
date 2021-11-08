@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\ref\CODE_BLOG №4 (приведение и преобразование).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\bin\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\ref\CODE_BLOG №4 (приведение и преобразование).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №4 (приведение и преобразование)\obj\Debug\net5.0\CODE_BLOG №4 (приведение и преобразование).genruntimeconfig.cache

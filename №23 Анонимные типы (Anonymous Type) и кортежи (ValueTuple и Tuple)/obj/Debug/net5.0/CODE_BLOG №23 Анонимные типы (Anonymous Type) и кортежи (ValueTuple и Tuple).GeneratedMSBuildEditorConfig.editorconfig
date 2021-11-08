@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CODE_BLOG__23_Анонимные_типы__Anonymous_Type__и_кортежи__ValueTuple_и_Tuple_
+build_property.ProjectDir = D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №23 Анонимные типы (Anonymous Type) и кортежи (ValueTuple и Tuple)\

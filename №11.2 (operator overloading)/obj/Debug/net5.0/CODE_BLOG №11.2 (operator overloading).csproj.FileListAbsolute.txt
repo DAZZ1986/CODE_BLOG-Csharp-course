@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\ref\CODE_BLOG №11.2 (operator overloading).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\bin\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\ref\CODE_BLOG №11.2 (operator overloading).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №11.2 (operator overloading)\obj\Debug\net5.0\CODE_BLOG №11.2 (operator overloading).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).exe
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).deps.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).runtimeconfig.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).runtimeconfig.dev.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).csprojAssemblyReference.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).AssemblyInfo.cs
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11 (operator overloading).genruntimeconfig.cache

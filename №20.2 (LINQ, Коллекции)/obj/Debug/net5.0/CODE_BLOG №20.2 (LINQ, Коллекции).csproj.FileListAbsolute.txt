@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\ref\CODE_BLOG №20.2 (LINQ, Коллекции).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\bin\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\ref\CODE_BLOG №20.2 (LINQ, Коллекции).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №20.2 (LINQ, Коллекции)\obj\Debug\net5.0\CODE_BLOG №20.2 (LINQ, Коллекции).genruntimeconfig.cache

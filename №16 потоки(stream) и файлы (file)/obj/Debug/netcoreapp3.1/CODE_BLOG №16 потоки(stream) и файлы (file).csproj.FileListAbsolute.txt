@@ -1,0 +1,13 @@
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\bin\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).exe
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\bin\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).deps.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\bin\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).runtimeconfig.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\bin\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).runtimeconfig.dev.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\bin\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\bin\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).csprojAssemblyReference.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).AssemblyInfo.cs
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №16 потоки(stream) и файлы (file)\obj\Debug\netcoreapp3.1\CODE_BLOG №16 потоки(stream) и файлы (file).genruntimeconfig.cache

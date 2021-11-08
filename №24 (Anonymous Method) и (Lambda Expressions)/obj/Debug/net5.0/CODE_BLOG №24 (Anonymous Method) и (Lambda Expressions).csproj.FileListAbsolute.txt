@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\ref\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\bin\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\ref\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions)\obj\Debug\net5.0\CODE_BLOG №24 (Anonymous Method) и (Lambda Expressions).genruntimeconfig.cache

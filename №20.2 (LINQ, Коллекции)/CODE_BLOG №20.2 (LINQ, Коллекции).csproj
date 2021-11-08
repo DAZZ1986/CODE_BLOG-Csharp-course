@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CODE_BLOG__20._2__LINQ__Коллекции_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

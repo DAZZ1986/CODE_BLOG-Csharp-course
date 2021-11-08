@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\ref\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\bin\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\ref\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE BLOG №28 Сборка мусора (Garbage Collection, GC)\obj\Debug\net5.0\CODE BLOG №28 Сборка мусора (Garbage Collection, GC).genruntimeconfig.cache

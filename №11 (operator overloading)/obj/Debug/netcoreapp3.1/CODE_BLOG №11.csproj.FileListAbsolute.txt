@@ -1,0 +1,13 @@
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11.exe
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11.deps.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11.runtimeconfig.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11.runtimeconfig.dev.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\bin\Debug\netcoreapp3.1\CODE_BLOG №11.pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.csprojAssemblyReference.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.AssemblyInfo.cs
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №11\obj\Debug\netcoreapp3.1\CODE_BLOG №11.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\CODE_BLOG №10.2 (method).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\CODE_BLOG №10.2 (method).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\CODE_BLOG №10.2 (method).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\CODE_BLOG №10.2 (method).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\CODE_BLOG №10.2 (method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\ref\CODE_BLOG №10.2 (method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\bin\Debug\net5.0\CODE_BLOG №10.2 (method).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\ref\CODE_BLOG №10.2 (method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №10.2 (method)\obj\Debug\net5.0\CODE_BLOG №10.2 (method).genruntimeconfig.cache

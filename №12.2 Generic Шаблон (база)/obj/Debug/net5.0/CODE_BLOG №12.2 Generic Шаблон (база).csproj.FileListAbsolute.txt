@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\ref\CODE_BLOG №12.2 Generic Шаблон (база).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\bin\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\ref\CODE_BLOG №12.2 Generic Шаблон (база).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №12.2 Generic Шаблон (база)\obj\Debug\net5.0\CODE_BLOG №12.2 Generic Шаблон (база).genruntimeconfig.cache

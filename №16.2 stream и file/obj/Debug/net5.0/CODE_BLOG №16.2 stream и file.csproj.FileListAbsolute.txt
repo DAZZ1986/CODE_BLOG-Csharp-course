@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\CODE_BLOG №16.2 stream и file.exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\CODE_BLOG №16.2 stream и file.deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\CODE_BLOG №16.2 stream и file.runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\CODE_BLOG №16.2 stream и file.runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\CODE_BLOG №16.2 stream и file.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\ref\CODE_BLOG №16.2 stream и file.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\bin\Debug\net5.0\CODE_BLOG №16.2 stream и file.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\ref\CODE_BLOG №16.2 stream и file.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №16.2 stream и file\obj\Debug\net5.0\CODE_BLOG №16.2 stream и file.genruntimeconfig.cache

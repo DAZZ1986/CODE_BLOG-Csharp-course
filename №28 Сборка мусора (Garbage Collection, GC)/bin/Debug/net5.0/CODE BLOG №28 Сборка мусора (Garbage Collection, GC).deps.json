@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CODE BLOG №28 Сборка мусора (Garbage Collection, GC)/1.0.0": {
+        "runtime": {
+          "CODE BLOG №28 Сборка мусора (Garbage Collection, GC).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CODE BLOG №28 Сборка мусора (Garbage Collection, GC)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

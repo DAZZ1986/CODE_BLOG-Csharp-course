@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CODE_BLOG__17._2_async__await__thread</RootNamespace>
+  </PropertyGroup>
+
+</Project>

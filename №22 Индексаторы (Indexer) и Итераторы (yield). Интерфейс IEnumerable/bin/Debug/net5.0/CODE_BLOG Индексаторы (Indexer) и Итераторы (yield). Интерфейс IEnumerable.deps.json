@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CODE_BLOG Индексаторы (Indexer) и Итераторы (yield). Интерфейс IEnumerable/1.0.0": {
+        "runtime": {
+          "CODE_BLOG Индексаторы (Indexer) и Итераторы (yield). Интерфейс IEnumerable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CODE_BLOG Индексаторы (Indexer) и Итераторы (yield). Интерфейс IEnumerable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

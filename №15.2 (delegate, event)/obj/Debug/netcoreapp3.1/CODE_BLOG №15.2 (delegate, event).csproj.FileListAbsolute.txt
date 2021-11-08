@@ -1,0 +1,13 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\bin\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\bin\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\bin\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\bin\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\bin\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\bin\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №15 (delegate, event)\obj\Debug\netcoreapp3.1\CODE_BLOG №15.2 (delegate, event).genruntimeconfig.cache

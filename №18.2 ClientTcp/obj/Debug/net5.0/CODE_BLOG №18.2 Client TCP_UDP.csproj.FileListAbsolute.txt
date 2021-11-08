@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\ref\CODE_BLOG №18.2 Client TCP_UDP.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\bin\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\ref\CODE_BLOG №18.2 Client TCP_UDP.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.genruntimeconfig.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №18.2 ClientTcp\obj\Debug\net5.0\CODE_BLOG №18.2 Client TCP_UDP.csproj.AssemblyReference.cache

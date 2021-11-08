@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).exe
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).dll
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\ref\CODE_BLOG №15.3 Simple exapmle (delegate, event).dll
+D:\CODE\C#\repos\old\CODE_BLOG\Test\bin\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).dll
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\ref\CODE_BLOG №15.3 Simple exapmle (delegate, event).dll
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\Test\obj\Debug\net5.0\CODE_BLOG №15.3 Simple exapmle (delegate, event).genruntimeconfig.cache

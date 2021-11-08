@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CODE_BLOG_Индексаторы__Indexer__и_Итераторы__yield_._Интерфейс_IEnumerable</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\ref\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\bin\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\ref\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection)\obj\Debug\net5.0\CODE_BLOG №25 Атрибуты (Attribute) и Рефлексия (Reflection).genruntimeconfig.cache

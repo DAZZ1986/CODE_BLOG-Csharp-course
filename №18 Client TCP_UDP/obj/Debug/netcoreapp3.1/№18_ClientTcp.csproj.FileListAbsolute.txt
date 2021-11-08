@@ -1,0 +1,13 @@
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\bin\Debug\netcoreapp3.1\№18_ClientTcp.exe
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\bin\Debug\netcoreapp3.1\№18_ClientTcp.deps.json
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\bin\Debug\netcoreapp3.1\№18_ClientTcp.runtimeconfig.json
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\bin\Debug\netcoreapp3.1\№18_ClientTcp.runtimeconfig.dev.json
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\bin\Debug\netcoreapp3.1\№18_ClientTcp.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\bin\Debug\netcoreapp3.1\№18_ClientTcp.pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.AssemblyInfo.cs
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.genruntimeconfig.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\№18_ClientTcp\obj\Debug\netcoreapp3.1\№18_ClientTcp.csprojAssemblyReference.cache

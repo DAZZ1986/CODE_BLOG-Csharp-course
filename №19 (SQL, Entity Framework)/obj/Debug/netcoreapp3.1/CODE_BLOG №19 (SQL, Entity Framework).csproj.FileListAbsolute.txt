@@ -1,0 +1,37 @@
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).exe
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).dll.config
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).deps.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).runtimeconfig.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).runtimeconfig.dev.json
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).AssemblyInfoInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).AssemblyInfo.cs
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).csproj.CoreCompileInputs.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).csproj.CopyComplete
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).dll
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).pdb
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).genruntimeconfig.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).csproj.GenerateResource.cache
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG__19__SQL__Entity_Framework_.Migrations.Initial2.resources
+D:\install\Code\C#\repos\old\CODE_BLOG\CODE_BLOG №19 (SQL, Entity Framework)\obj\Debug\netcoreapp3.1\CODE_BLOG №19 (SQL, Entity Framework).csprojAssemblyReference.cache

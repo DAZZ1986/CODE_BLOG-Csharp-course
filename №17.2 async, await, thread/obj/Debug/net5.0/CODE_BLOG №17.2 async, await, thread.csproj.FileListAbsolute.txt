@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\ref\CODE_BLOG №17.2 async, await, thread.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\bin\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\ref\CODE_BLOG №17.2 async, await, thread.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №17.2 async, await, thread\obj\Debug\net5.0\CODE_BLOG №17.2 async, await, thread.genruntimeconfig.cache

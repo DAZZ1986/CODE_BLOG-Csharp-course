@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\ref\CODE_BLOG №29 Базовый тип Object.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\bin\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\ref\CODE_BLOG №29 Базовый тип Object.dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №29 Базовый тип Object\obj\Debug\net5.0\CODE_BLOG №29 Базовый тип Object.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\ref\CODE_BLOG №7 (for, foreach, while).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\bin\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\ref\CODE_BLOG №7 (for, foreach, while).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).genruntimeconfig.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №7 (for, foreach, while)\obj\Debug\net5.0\CODE_BLOG №7 (for, foreach, while).csproj.AssemblyReference.cache

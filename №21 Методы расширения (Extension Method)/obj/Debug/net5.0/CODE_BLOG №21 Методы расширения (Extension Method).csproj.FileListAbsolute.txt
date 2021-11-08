@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\ref\CODE_BLOG №21 Методы расширения (Extension Method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\bin\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\ref\CODE_BLOG №21 Методы расширения (Extension Method).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №21 Методы расширения (Extension Method)\obj\Debug\net5.0\CODE_BLOG №21 Методы расширения (Extension Method).genruntimeconfig.cache

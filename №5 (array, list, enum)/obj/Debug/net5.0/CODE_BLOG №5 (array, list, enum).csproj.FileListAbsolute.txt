@@ -1,0 +1,16 @@
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\CODE_BLOG №5 (array, list, enum).exe
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\CODE_BLOG №5 (array, list, enum).deps.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\CODE_BLOG №5 (array, list, enum).runtimeconfig.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\CODE_BLOG №5 (array, list, enum).runtimeconfig.dev.json
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\CODE_BLOG №5 (array, list, enum).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\ref\CODE_BLOG №5 (array, list, enum).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\bin\Debug\net5.0\CODE_BLOG №5 (array, list, enum).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).csproj.AssemblyReference.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).AssemblyInfoInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).AssemblyInfo.cs
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).csproj.CoreCompileInputs.cache
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\ref\CODE_BLOG №5 (array, list, enum).dll
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).pdb
+D:\CODE\C#\repos\old\CODE_BLOG\CODE_BLOG №5 (array, list, enum)\obj\Debug\net5.0\CODE_BLOG №5 (array, list, enum).genruntimeconfig.cache
